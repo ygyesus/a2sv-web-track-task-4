@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(125, 38, 38);
+}
+
+h1 {
+  color: white;
+}
+
+li {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: 50px 50px 50px;
+  margin-bottom: 20px;
+  color: white;
+  font-weight: bold;
+  background-color: black;
+  max-width: 25%;
+}
+
+label {
+  color: white;
+  font-weight: bold;
+}
+
+button {
+  padding: 0;
+}
+
+input {
+  height: 50px;
+  margin: 20px 0;
+}
